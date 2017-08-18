@@ -1,7 +1,7 @@
 # salesforce slds data table
 SLDS data table with fixed headers using CSS and HTML
 
-<link href="salesforce/blob/master/assets/styles/salesforce-lightning-design-system.min.css" rel="stylesheet" type="text/css">
+<link href="/salesforce/assets/styles/salesforce-lightning-design-system.min.css" rel="stylesheet" type="text/css">
 
 <div class="slds">
 
